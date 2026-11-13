@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 554 554" role="img" aria-label="QQ企鹅黑色透明图标">
+  <defs>
+    <mask id="cutouts" maskUnits="userSpaceOnUse" x="0" y="0" width="554" height="554">
+      <rect width="554" height="554" fill="black"/>
+      <path fill="white" d="M275 35C180 35 123 111 123 219v24C96 306 55 403 71 429c8 13 29-10 48-43 6 48 24 79 48 99-27 11-46 25-44 35 3 15 63 17 152 17s149-2 152-17c2-10-17-24-44-35 24-20 42-51 48-99 19 33 40 56 48 43 16-26-25-123-52-186v-24C427 111 370 35 275 35Z"/>
+      <path fill="black" d="M234 95c-16 0-26 18-26 39s10 39 26 39 27-18 27-39-11-39-27-39Zm81 0c-16 0-27 18-27 39s11 39 27 39 26-18 26-39-10-39-26-39ZM183 203c16-13 52-19 92-19s76 6 92 19c-16 13-52 22-92 22s-76-9-92-22Zm-24 104c31 8 69 12 116 12s85-4 116-12c8 29 7 70 1 94-17 66-58 97-117 97s-100-31-117-97c-6-24-7-65 1-94Z"/>
+    </mask>
+  </defs>
+  <path fill="#fff" mask="url(#cutouts)" d="M0 0h554v554H0z"/>
+  <ellipse fill="#fff" cx="247" cy="135" rx="10" ry="17"/>
+  <path fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" d="M298 137q13-16 29-3"/>
+</svg>
